@@ -1,8 +1,8 @@
 {
-  "greeting": "Hiya",
-  "name": "Lydia",
-  "greetingText": "I really like your name btw!",
-  "wishText": "May the js.prototypes always be with you! ;)",
+  "greeting": "hello",
+  "name": "丹妮",
+  "greetingText": "hh 真心祝福你今天生日快乐!",
+  "wishText": "希望你天天都如今天般开心和充满意义! ;)",
   "imagePath": "img/lydia2.png",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
@@ -16,7 +16,7 @@
   "smiley": ":)",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
-  "wishHeading": "Happy Birthday!",
+  "wishHeading": "生日快乐🍰🎉!",
   "outroText": "Okay, now come back and tell me if you liked it.",
   "replayText": "Or click, if you want to watch it again.",
   "outroSmiley": ":)"
